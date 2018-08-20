@@ -57,6 +57,7 @@ module.exports = {
 
 ## 3.2 应用模块，两种方式
 - 一个文件就是一个模块
+
 1、单个引用
 ```js
 var PI = require('./004.count').PI;
